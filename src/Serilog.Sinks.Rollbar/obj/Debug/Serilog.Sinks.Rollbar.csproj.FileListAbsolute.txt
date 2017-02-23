@@ -1,0 +1,10 @@
+C:\Paylocity\github\serilog-sinks-rollbar\src\Serilog.Sinks.Rollbar\bin\Debug\Serilog.Sinks.Rollbar.dll
+C:\Paylocity\github\serilog-sinks-rollbar\src\Serilog.Sinks.Rollbar\bin\Debug\Serilog.Sinks.Rollbar.pdb
+C:\Paylocity\github\serilog-sinks-rollbar\src\Serilog.Sinks.Rollbar\bin\Debug\Newtonsoft.Json.dll
+C:\Paylocity\github\serilog-sinks-rollbar\src\Serilog.Sinks.Rollbar\bin\Debug\Rollbar.dll
+C:\Paylocity\github\serilog-sinks-rollbar\src\Serilog.Sinks.Rollbar\bin\Debug\Serilog.dll
+C:\Paylocity\github\serilog-sinks-rollbar\src\Serilog.Sinks.Rollbar\bin\Debug\Newtonsoft.Json.xml
+C:\Paylocity\github\serilog-sinks-rollbar\src\Serilog.Sinks.Rollbar\bin\Debug\Serilog.xml
+C:\Paylocity\github\serilog-sinks-rollbar\src\Serilog.Sinks.Rollbar\obj\Debug\Serilog.Sinks.Rollbar.csprojResolveAssemblyReference.cache
+C:\Paylocity\github\serilog-sinks-rollbar\src\Serilog.Sinks.Rollbar\obj\Debug\Serilog.Sinks.Rollbar.dll
+C:\Paylocity\github\serilog-sinks-rollbar\src\Serilog.Sinks.Rollbar\obj\Debug\Serilog.Sinks.Rollbar.pdb
