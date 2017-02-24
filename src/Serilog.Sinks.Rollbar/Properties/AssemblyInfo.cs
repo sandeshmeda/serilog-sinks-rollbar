@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Serilog.Sinks.Rollbar")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Serilog sink for logging messages to Rollbar")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Sandesh Meda")]
 [assembly: AssemblyProduct("Serilog.Sinks.Rollbar")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
