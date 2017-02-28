@@ -14,6 +14,7 @@ namespace Serilog.Sinks.Rollbar.Sinks.Rollbar
   {
     private string _accessToken;
     private string _environment;
+    IFormatProvider _formatProvider;
 
     public RollbarSink(string accessToken, string environment)
     {
@@ -34,7 +35,8 @@ namespace Serilog.Sinks.Rollbar.Sinks.Rollbar
 
     public void Emit(LogEvent logEvent)
     {
-      RollbarDotNet.Rollbar.Report(logEvent.MessageTemplate.Text, logEvent.ToErrorLevel());
+      var message = (logEvent.RenderMessage(_formatProvider));
+      RollbarDotNet.Rollbar.Report(message, logEvent.ToErrorLevel());
     }
   }
 }
